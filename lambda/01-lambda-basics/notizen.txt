@@ -1,0 +1,5 @@
+erst src schreiben 
+index.js
+    Hier handler zeigen
+npm init 
+dann neu main.tf terraform init und terraform apply

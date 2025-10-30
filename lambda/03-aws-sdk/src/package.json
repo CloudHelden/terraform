@@ -1,0 +1,24 @@
+{
+  "name": "aws-sdk-lambda-demo",
+  "version": "1.0.0",
+  "description": "AWS SDK v3 Demo Lambda Functions",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "sqs",
+    "s3",
+    "sns"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-sqs": "^3.621.0",
+    "@aws-sdk/client-s3": "^3.621.0",
+    "@aws-sdk/client-sns": "^3.621.0"
+  }
+}
